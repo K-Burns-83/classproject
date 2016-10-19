@@ -1,0 +1,37 @@
+body{
+  background-color: #909497;
+}
+h1{
+  font-size: 120pt;
+  font-family: "Times New Roman", Times, serif;
+  color: #2E86C1;
+  text-align: center;
+  text-decoration: underline;
+  text-decoration-color: #C0392B;
+}
+p{
+  font-size: 66pt;
+  font-family: "Areal", Times, serif;
+  color: #6C3483;
+  fluid width: 60%;
+}
+button{
+  font-size: 36pt;
+  text-align: center;
+  color: #17202A;
+  font-family: sans-serif;
+}
+footer{
+  font-size: 20pt;
+  text-align: center;
+}
+h2{
+  font-size: 40pt;
+  font-family: sans-serif;
+  color: #C0392B;
+}
+h3{
+  font-size: 35pt;
+  font-family: monospace;
+  color: #C0392B;
+}
